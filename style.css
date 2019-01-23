@@ -53,10 +53,11 @@ body {
 #logo {
   z-index: 20;
   position: fixed;
-  right: 70px;
-  top: 60px;
-  width: 300px;
+  right: 253px;
+  top: 40px;
+  width: 132px;
 }
+
 #logo-touch {
   display: none;
   position: absolute;
