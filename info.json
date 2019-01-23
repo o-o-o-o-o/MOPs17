@@ -1,15 +1,11 @@
 {
-	"title": "Binder",
-	"logo" : "logo.png",
-	"about" : "Link some sites together.",
-	"menu" : {
-		"About" : "https://docs.google.com/document/d/1L8uIUdE58AsP-jnHD_H6df3T2DNFsegImPidkTwpYLw/",
-		"Download" : "https://docs.google.com/document/d/1aKVEphpLq3UUBkhoStJVhmkiOWRQmALAj-bphbk-KTU/",
-		"Binder In-Use" : "https://docs.google.com/document/d/1q9957u3P0SfFzwTzaWlu1ZeJ4FEZ0H4MF-cJBSm4Y-s/",
-		"Google Slides" : "https://docs.google.com/presentation/d/1gdX17MpgdyhiAQKTPehMWEYf914cYF4GtuY7m1jD7Qo/embed?start=true&loop=true&delayms=5000",
-		"Tumblr" : "http://cempontraoryartdaily.tumblr.com/",
-		"PDF" : "http://www.nasa.gov/pdf/373665main_NASA-SP-2009-566.pdf",
-		"Youtube" : "https://www.youtube.com/embed/Sdi2S1PHS_s",
-		"Wikipedia" : "https://en.wikipedia.org/wiki/Web_page"
-	}
+  "title": "Models of Practice S19",
+  "logo": "iu.png",
+  "about": "Models of Practice S19 <br>Class Wiki",
+  "menu": {
+    "Class Log": "https://docs.google.com/document/d/1TwPzv09gzMe5Bl1z3MLSjJwagkLbtFdNFVIX8BVTsnA/edit?usp=sharing",
+    "Syllabus": "https://docs.google.com/document/d/1rvm5LCimDAajSDrOb71s_Hc0PXNbPmkFOSDmDABXGE8/",
+    "Are.na": "https://www.are.na/models-of-practice-s19",
+    "Resources": "https://www.are.na/neil-doshi-1516060952/resources-1515973453"
+  }
 }
